@@ -13,6 +13,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edwilliams/minute-calculator"
-  }
+    "url": "git+https://github.com/edwilliams/minute-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwilliams/minute-calculator/issues"
+  },
+  "homepage": "https://github.com/edwilliams/minute-calculator#readme",
+  "dependencies": {}
 }
